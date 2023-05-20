@@ -1,2 +1,2 @@
 //your JS code here. If required.
-function hii(){document.getElementById('status').innerHTML="Entered Metaverse"};
+function hii(){document.getElementById('m').innerHTML="Entered Metaverse"};
